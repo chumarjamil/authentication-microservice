@@ -58,4 +58,4 @@ This is a highly scalable, production-grade authentication microservice built wi
 * ✔ Full Docker & ECS orchestration
 * ✔ Logging & monitoring with CloudWatch
 
-💡 This project is built for developers who want a powerful, scalable, and production-ready authentication microservice with the latest DevOps and cloud technologies.
+💡 This project is built for those who want a powerful, scalable, and production-ready authentication microservice with the latest DevOps and cloud technologies.
